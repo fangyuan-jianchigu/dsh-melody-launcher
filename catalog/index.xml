@@ -17,6 +17,7 @@
   <repository name="HuanLinOTO/dsh-plugin-anti-ads" branch="master" updated="2026-08-17T02:18:27Z" tags="plugin"/>
   <repository name="yjh051108/dsh-routing-suite" branch="main" updated="2026-08-22T09:05:29Z" tags="plugin,preset"/>
   <repository name="zhu1090093659/dsh-web-ui" branch="dev" updated="2026-08-22T09:02:17Z" tags="plugin,skill"/>
+  <repository name="aceice01/dsh-whale-pet" branch="master" updated="2026-09-14T02:01:21Z" tags="plugin"/>
   <repository name="edison7009/EchoBird" branch="main" updated="2026-08-22T08:47:29Z" tags="invalid"/>
   <repository name="EverMind-AI/EverOS" branch="main" updated="2026-08-22T08:40:58Z" tags="plugin,skill"/>
   <repository name="Devin-AXIS/iPolloWork" branch="main" updated="2026-08-22T09:06:22Z" tags="plugin,skill"/>
